@@ -1,0 +1,1 @@
+# openstack_nova_rebuild_when_ceph_has_snaps
